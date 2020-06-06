@@ -1,1 +1,2 @@
-# node-todo
+#calculator in js
+#html, css, javascript
