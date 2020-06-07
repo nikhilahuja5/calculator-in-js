@@ -1,0 +1,30 @@
+*{
+    margin:0px;
+padding:0px;
+ }
+.button{
+ width:50px;
+ height:50px;
+ font-size:20px;
+ margin:5px;
+ cursor:pointer;
+ }
+.textview{
+width:220px;
+font-size:25px;
+padding:5px;
+}
+.main{
+    text-align: center;
+    margin-top:50px;
+}
+.btns{
+    margin-left: 41%;
+}
+.heading{
+    font-size: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    margin-top:50px;
+    
+}
